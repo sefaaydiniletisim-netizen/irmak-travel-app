@@ -1,0 +1,24 @@
+{
+  "name": "Irmak'ın Türkiye Günlüğü",
+  "short_name": "Irmak Günlük",
+  "description": "Keşfet, hatırla, hayal et - Türkiye gezi günlüğün",
+  "start_url": "/irmak-travel-app/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#667eea",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/irmak-travel-app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/irmak-travel-app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
